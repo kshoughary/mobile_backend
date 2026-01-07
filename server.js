@@ -15,7 +15,7 @@ const db = mysql.createConnection({
   // description: "QNlcwsbUaRVBpVXFRjpSbknKgqJGcqSa",
   // database: "railway",
   // port: 45490,
-  host: "https://switchback.proxy.rlwy.net",
+  host: "switchback.proxy.rlwy.net",
   user: "root",
   password: "ruLHOTPjJNdJfJUbieNZmGqEXppwLTOK",
   database: "railway",
